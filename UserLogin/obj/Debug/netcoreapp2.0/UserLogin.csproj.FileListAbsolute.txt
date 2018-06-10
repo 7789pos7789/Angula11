@@ -1,0 +1,11 @@
+C:\APICore\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.deps.json
+C:\APICore\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.runtimeconfig.json
+C:\APICore\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.runtimeconfig.dev.json
+C:\APICore\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.dll
+C:\APICore\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.csprojResolveAssemblyReference.cache
+C:\APICore\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.csproj.CoreCompileInputs.cache
+C:\APICore\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.AssemblyInfoInputs.cache
+C:\APICore\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.AssemblyInfo.cs
+C:\APICore\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.pdb
+C:\APICore\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.dll
+C:\APICore\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.pdb
